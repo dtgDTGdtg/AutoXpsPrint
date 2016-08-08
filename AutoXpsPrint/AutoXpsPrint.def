@@ -1,0 +1,6 @@
+LIBRARY AutoXpsPrint
+EXPORTS
+	SetXpsPrinter			@1
+	ActivateXpsPrinter		@2
+	RestoreOldPrinter		@3
+	ConfirmXpsSaveDialog	@4
