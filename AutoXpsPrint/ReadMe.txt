@@ -1,5 +1,5 @@
 ========================================================================
-    DYNAMIC LINK LIBRARY : AutoXpsPrint Project Overview
+>> DYNAMIC LINK LIBRARY : AutoXpsPrint Project Overview
 ========================================================================
 
 AppWizard has created this AutoXpsPrint DLL for you.
